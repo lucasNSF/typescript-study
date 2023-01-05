@@ -1,0 +1,1 @@
+{"version":3,"file":"mensagem-view.js","sourceRoot":"","sources":["../../../src/views/mensagem-view.ts"],"names":[],"mappings":";;;;;;AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,gCAAgC,CAAC;AAC9D,OAAO,EAAE,IAAI,EAAE,MAAM,WAAW,CAAC;AAEjC,MAAM,OAAO,YAAa,SAAQ,IAAY;IAElC,QAAQ,CAAC,KAAa;QAC9B,OAAO;0CAC+B,KAAK;;SAEtC,CAAC;IACR,CAAC;CACF;AANC;IADC,YAAY,EAAE;4CAMd"}
